@@ -1,0 +1,23 @@
+{
+  "name": "node-js-course",
+  "version": "0.0.1",
+  "description": "learning node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/Juliorivasz"
+  },
+  "keywords": [
+    "node",
+    "node",
+    "js",
+    "javascript",
+    "npm",
+    "npx"
+  ],
+  "author": "Juliorivasz",
+  "license": "ISC"
+}
