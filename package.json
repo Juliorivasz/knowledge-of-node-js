@@ -1,23 +1,21 @@
 {
-  "name": "node-js-course",
-  "version": "0.0.1",
-  "description": "learning node js",
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "http://www.github.com/Juliorivasz"
+    "url": "git+https://github.com/Juliorivasz/knowledge-of-node-js.git"
   },
-  "keywords": [
-    "node",
-    "node",
-    "js",
-    "javascript",
-    "npm",
-    "npx"
-  ],
-  "author": "Juliorivasz",
-  "license": "ISC"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juliorivasz/knowledge-of-node-js/issues"
+  },
+  "homepage": "https://github.com/Juliorivasz/knowledge-of-node-js#readme"
 }

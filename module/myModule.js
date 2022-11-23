@@ -18,7 +18,7 @@ const user = {
 
 
 // and 
-
+// tambien conocido como common js
 module.exports.web = myWeb;
 module.exports.old = myOld;
 module.exports.money = myMoney;
